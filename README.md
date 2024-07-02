@@ -1,7 +1,7 @@
 # Olá, sou Felipe Ferreira!
 
 ## Sobre Mim
-Atualmente, estou cursando meu Mestrado no **Instituto Tecnológico de Aeronáutica (ITA)**. Minha jornada acadêmica e profissional é profundamente enraizada na paixão por computação e tecnologias emergentes. Tenho forte interesse nas áreas de **Sistemas Embarcados**, **Inteligência Artificial**, **Robótica**, assim como em **Arquiteturas de Computadores**, com um foco especial em **FPGA** e **ASIC** e áreas correlatas.
+Atualmente, estou cursando meu Doutorado no **Instituto Tecnológico de Aeronáutica (ITA)**. Minha jornada acadêmica e profissional é profundamente enraizada na paixão por computação e tecnologias emergentes. Tenho forte interesse nas áreas de **Sistemas Embarcados**, **Inteligência Artificial**, **Robótica**, assim como em **Arquiteturas de Computadores**, com um foco especial em **FPGA** e **ASIC** e áreas correlatas.
 
 ## Minha Jornada
 Ao longo do meu percurso, dediquei-me a explorar como essas tecnologias podem ser integradas para desenvolver soluções mais eficientes e avançadas. Acredito firmemente que a combinação de conhecimentos em IA e FPGAs é crucial para impulsionar inovações significativas em diversas aplicações embarcadas.
